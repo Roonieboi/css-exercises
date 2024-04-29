@@ -1,0 +1,10 @@
+.container .text{
+    background-color: yellow;
+    color: rgb(214, 0, 0);
+    font-size: 18px;
+    padding: 1px;
+    text-align: center;
+}
+.text{
+    font-size: 15px;
+}
